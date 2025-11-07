@@ -1,6 +1,5 @@
 ---
 title: "R script supplementary"
-
 format:
   html:
     page-layout: article
