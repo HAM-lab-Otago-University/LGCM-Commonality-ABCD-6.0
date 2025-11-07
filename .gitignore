@@ -5,6 +5,7 @@
 .DS_Store
 .quarto
 *.pdf
+LGCM_ABCD_6.pdf
 *.rds
 *.Rproj
 *.jpg
