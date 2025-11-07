@@ -1,0 +1,20 @@
+.Rproj.user
+.Rhistory
+.RData
+.httr-oauth
+.DS_Store
+.quarto
+*.rds
+*.Rproj
+*.jpg
+LGCM_ABCD_6.qmd
+LGCM_ABCD_6.html
+*.rmarkdown
+*.xlsx
+test.qmd
+test.html
+*.tsv
+LGCM_ABCD_6_files/
+R script supplementary_files/
+R_script_supplementary_files/
+test_files/
