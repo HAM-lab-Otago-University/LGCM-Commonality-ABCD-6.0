@@ -8,7 +8,6 @@
 LGCM_ABCD_6.pdf
 *.rds
 *.Rproj
-*.jpg
 LGCM_ABCD_6.qmd
 LGCM_ABCD_6.html
 *.rmarkdown
